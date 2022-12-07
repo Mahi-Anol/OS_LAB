@@ -1,2 +1,2 @@
-# OS_LAB
-Final Assignment
+# Scheduling_algo_CPP
+CPU_Scheduling_Algo
